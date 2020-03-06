@@ -1,0 +1,8 @@
+node_modules/
+PRD_CONFIG.js
+DEV_CONFIG.js
+coverage/
+yarn-error.log
+memo/
+*jpg
+*jpeg
